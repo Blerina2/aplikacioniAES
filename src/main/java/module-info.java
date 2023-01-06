@@ -11,6 +11,6 @@ module com.example.aesprojekt {
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
 
-    opens com.example.aesprojekt to javafx.fxml;
-    exports com.example.aesprojekt;
+    opens fiek.siguriainternet.aesprojekt to javafx.fxml;
+    exports fiek.siguriainternet.aesprojekt;
 }

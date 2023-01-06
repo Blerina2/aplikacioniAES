@@ -1,4 +1,4 @@
-package com.example.aesprojekt;
+package fiek.siguriainternet.aesprojekt;
 
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
